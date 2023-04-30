@@ -23,3 +23,7 @@ The application is built using JavaFX. The goal of it is to display car velocity
 First you should run this application then run the Car Simulation project,
 because the Car Simulation project expects the application is available
 and can import the initial values from it.
+
+
+## Application widget example
+![Application widget example.](/images/sample.png)
